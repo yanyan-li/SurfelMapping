@@ -3,12 +3,13 @@ Surfel-based mapping is an efficient way for 3D dense reconstruction.
 
 ### ManhattanSLAM
 
-[paper ](https://arxiv.org/pdf/2103.15068.pdf)
+**You can find the paper [here](https://arxiv.org/pdf/2103.15068.pdf), code here. If the project helps you in your paper, PLEASE cite it.**
+
+<p align="center">
+<img src="fig/example3.png" alt="mapping example" width = "623" height = "300">
+</p>
 
 
-![example3](/home/yanyan/Documents/research/DenseSurfelMapping/fig/example3.png)
-
-------
 
 ## DenseSurfelMapping system
 
