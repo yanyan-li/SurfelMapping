@@ -170,11 +170,11 @@ git clone https://github.com/ros-perception/vision_opencv.git src/vision_opencv
 cd build
 ```
 
-          ```
+```
 cmake  -DPYTHON_EXECUTABLE=/home/yanyan/miniconda3/envs/TFSLAM/bin/python3  -DPYTHON_INCLUDE_DIR=/home/yanyan/miniconda3/envs/TFSLAM/include/python3.7m -DPYTHON_LIBRARY=/home/yanyan/miniconda3/envs/TFSLAM/lib/libpython3.7m.so .. 
 
 make
-          ```
+```
 
 register cv_bridge
 
