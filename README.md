@@ -3,7 +3,18 @@ Surfel-based mapping is an efficient way for 3D dense reconstruction.
 
 ### ManhattanSLAM
 
-**You can find the paper [here](https://arxiv.org/pdf/2103.15068.pdf), code here. If the project helps you in your paper, PLEASE cite it.**
+**You can find the paper [here](https://arxiv.org/pdf/2103.15068.pdf), [code](https://github.com/razayunus/ManhattanSLAM) here. If the project helps you in your paper, PLEASE cite it.** 
+
+```
+@inproceedings{yunus2021manhattanslam,
+    author = {R. Yunus, Y. Li and F. Tombari},
+    title = {ManhattanSLAM: Robust Planar Tracking and Mapping Leveraging Mixture of Manhattan Frames},
+    year = {2021},
+    booktitle = {2021 IEEE international conference on Robotics and automation (ICRA)},
+}
+```
+
+
 
 <p align="center">
 <img src="fig/example3.png" alt="mapping example" width = "623" height = "300">
